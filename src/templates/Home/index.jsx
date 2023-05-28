@@ -1,4 +1,4 @@
-import { Component } from 'react';
+import { Component } from 'react'
 
 import '../../styles/global-styles.css';
 import './styles.css'
